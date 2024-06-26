@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_ic_facebook.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/ic_facebook.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_ic_instagram.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/ic_instagram.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable-v24_ic_email.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable-v24/ic_email.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable-v24_image_chest_gress.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable-v24/image_chest_gress.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/layout_activity_sign_up.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_ic_password.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/ic_password.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable-v24_ic_logo.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable-v24/ic_logo.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/layout_activity_login.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_bg_round_ic.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/bg_round_ic.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.revmeapp.revme.app-pngs-43:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_ic_linkin.png.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/ic_linkin.png"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_btn_black.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/btn_black.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/drawable_bg_edt.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/drawable/bg_edt.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "com.revmeapp.revme.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.revmeapp.revme.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.revmeapp.revme.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

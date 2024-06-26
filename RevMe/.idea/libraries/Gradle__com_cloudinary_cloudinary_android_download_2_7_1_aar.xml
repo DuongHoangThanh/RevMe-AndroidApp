@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cloudinary:cloudinary-android-download:2.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f692fc9962d9c3484d3ef91f3168efcf/transformed/cloudinary-android-download-2.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f692fc9962d9c3484d3ef91f3168efcf/transformed/cloudinary-android-download-2.7.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-android-download/2.7.1/95d9a67d45865ef1c88a1f5d388773af0c05c576/cloudinary-android-download-2.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-android-download/2.7.1/5774604c30835305e99718ebd6d0d6fbe4f4c6f5/cloudinary-android-download-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

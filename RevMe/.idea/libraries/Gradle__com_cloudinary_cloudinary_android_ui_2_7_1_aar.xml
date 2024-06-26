@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cloudinary:cloudinary-android-ui:2.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b56a306a3bb420c1c282ea5b01577734/transformed/cloudinary-android-ui-2.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b56a306a3bb420c1c282ea5b01577734/transformed/cloudinary-android-ui-2.7.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b56a306a3bb420c1c282ea5b01577734/transformed/cloudinary-android-ui-2.7.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-android-ui/2.7.1/3432f725051bfd627b40139fc90d18530cd75760/cloudinary-android-ui-2.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cloudinary/cloudinary-android-ui/2.7.1/6859279822fcf9ecae788fe3f69e001c9328aebf/cloudinary-android-ui-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
